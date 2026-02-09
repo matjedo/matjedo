@@ -1,4 +1,6 @@
-Pronome: ele/dele
+🔭 Estou trabalhando atualmente em meus projetos
+🌱 Estou aprendendo html e python
+😄 Pronomes: ele/dele
 <!--
 **matjedo/matjedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
