@@ -1,7 +1,9 @@
 ## Opa! 👋
 
 
-Fato engraçado: Eu criei este repositorio pra enviar uma mensagem de 380 mil linhas pedindo pra ser editor de um canal na twitch
+⚡ Fato engraçado: Eu criei este repositorio pra enviar uma mensagem de 380 mil linhas pedindo pra ser editor de um canal na twitch
+
+😄 Pronomes: ele/dele
 <!--
 **matjedo/matjedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
