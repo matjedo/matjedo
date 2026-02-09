@@ -1,0 +1,2 @@
+# Dependencias:
+- python
